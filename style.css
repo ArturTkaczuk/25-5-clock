@@ -1,0 +1,32 @@
+body {
+  color: white;
+  background-color: rgb(59, 59, 59);
+}
+
+.time {
+  display: grid;
+  grid-template-columns: 100px 200px 100px;
+  align-items: center;
+  justify-items: center;
+}
+
+.time h2 {
+  margin: 20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 800px;
+  margin: auto;
+  justify-items: center;
+  align-items: center;
+}
+
+.button-margin {
+  margin-left: 50px;
+}
+
+.red-color {
+  color: rgb(255, 106, 106);
+}
