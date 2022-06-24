@@ -1,6 +1,6 @@
-# Website
+# 25-5 clock
 
-One of my first projects. Simple game made in JS, CSS & HTML to learn coding. Check it [Live here](https://25-5-clock-at.netlify.app)
+Pomodoro clock made in React to learn coding. Check it [Live here](https://25-5-clock-at.netlify.app)
 
 ## Table of Contents
 
@@ -30,7 +30,8 @@ cd 25-5-clock
 
 **b) Download project manually from GitHub**
 
-Download project from [this link](https://github.com/ArturTkaczuk/project-template/archive/refs/heads/main.zip)
+Download project from [this link](https://github.com/ArturTkaczuk/25-5-clock/archive/refs/heads/main.zip)
+
 Unpack zip file
 
 ## Usage
@@ -41,24 +42,25 @@ Run index.html in project file
 
 Technologies used during development process:
 
-- Vanilla JS
-- SCSS
+- React (CDN)
+- CSS
 - HTML
+- MaterializeCSS 1.0.0
 
 ## Features
 
-- timer
-- score counter
+- sound is played when timer reaches 0:00
+- timer color is changed to red when timer is below 1:00
 
 ## Support
 
-Please [open an issue](https://github.com/ArturTkaczuk/insect-game/issues) for support.
+Please [open an issue](https://github.com/ArturTkaczuk/25-5-clock/issues) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/ArturTkaczuk/insect-game/compare).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/ArturTkaczuk/25-5-clock/compare).
 
 ## License
->You can check out the full license [here](https://github.com/ArturTkaczuk/insect-game/blob/main/LICENSE).
+>You can check out the full license [here](https://github.com/ArturTkaczuk/25-5-clock/blob/main/LICENSE).
 
 This project is licensed under the terms of the ***MIT license***.
