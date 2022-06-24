@@ -21,18 +21,11 @@ Pomodoro clock made in React to learn coding. Check it [Live here](https://25-5-
 
 **a) Download project via git**
 
-Run commands in terminal:
-
-```sh
-git clone https://github.com/ArturTkaczuk/25-5-clock.git
-cd 25-5-clock
-```
+Run command in terminal `git clone https://github.com/ArturTkaczuk/25-5-clock.git`
 
 **b) Download project manually from GitHub**
 
-Download project from [this link](https://github.com/ArturTkaczuk/25-5-clock/archive/refs/heads/main.zip)
-
-Unpack zip file
+Download project from [this link](https://github.com/ArturTkaczuk/25-5-clock/archive/refs/heads/main.zip) and unpack zip file
 
 ## Usage
 
